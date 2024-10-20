@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Multiple_Inheritence_in_Blockchain/multipleInheritence.sol": "multipleInheritence"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Multiple_Inheritence_in_Blockchain/multipleInheritence.sol": {
+			"keccak256": "0x48fe3cd2224c08d5a9b438b97ea2c9bbaa61fdf0bdeb4569e57ccacd9ede0e49",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1e1a9e2ae1f7a2e7118421ec48aa31cd2bb6f60b80ed095d2b414c30d864e1f9",
+				"dweb:/ipfs/QmerKMcU89N32MX8ETy5vUGFrsn2hg5UM4eNDQMDv85foN"
+			]
+		}
+	},
+	"version": 1
+}

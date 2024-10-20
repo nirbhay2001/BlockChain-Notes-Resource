@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_x",
+						"type": "uint256"
+					}
+				],
+				"name": "fun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"If-else_in_blockchain/if_elseBlockchain.sol": "if_elseBlockchain"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"If-else_in_blockchain/if_elseBlockchain.sol": {
+			"keccak256": "0xa616e9ae44574effae62f2b77ebe88ef16898a06b70bfeaaa675b9d0aea886c1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://926f312e28d7d7e556e0b7975e505937a3063f7314d30e6cec9383093ca208fc",
+				"dweb:/ipfs/QmccoL3R3UUcijiuupp1GLb781afxoBb3w4w9oNHDBbTtv"
+			]
+		}
+	},
+	"version": 1
+}

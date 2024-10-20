@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Memeory",
+				"outputs": [],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Storage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Data_Location_In_blockchain/storeageMemoryCalldata.sol": "storageMemoryCalldata"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Data_Location_In_blockchain/storeageMemoryCalldata.sol": {
+			"keccak256": "0x010aa23633474c09d8b03209ba702a01b772584d3ea298fc4c42078909229f6e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a6387952cfcf30e20f0735c0bfe09b05cf3acd52324f0ce24756f556b39e257",
+				"dweb:/ipfs/QmTC3QnrTKUQ64zYocffs27CEG3EmArfh61CWarnnYRBqP"
+			]
+		}
+	},
+	"version": 1
+}

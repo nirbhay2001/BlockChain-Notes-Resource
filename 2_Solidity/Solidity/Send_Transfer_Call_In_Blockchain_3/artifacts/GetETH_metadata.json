@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "checkBal",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Send_Transfer_Call_In_Blockchain_3/sendTransferCall.sol": "GetETH"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Send_Transfer_Call_In_Blockchain_3/sendTransferCall.sol": {
+			"keccak256": "0x36e211417cfbd11f6d03de2e2710652ef68b1c1410788eff8256854575991a4e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a2f03799547da4b2dfec29e7231c1f52612e545fb5e1375bb3d43528b2839aca",
+				"dweb:/ipfs/QmSHnp9eLnxeLB1aTqCgbuFu316fVbubXocCVjGSBA5jrx"
+			]
+		}
+	},
+	"version": 1
+}

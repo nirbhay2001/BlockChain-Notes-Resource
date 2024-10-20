@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Loops_in_Blockchain/loopBlockchain.sol": "loopBlockchain"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Loops_in_Blockchain/loopBlockchain.sol": {
+			"keccak256": "0x58e13a97fdda39507ad1eb0b0a5a821a479d119f8a7331293b7f4141156c6734",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1a8147874e53e7d6882fe0ec82078ed38a529a67400b0f4a7cefd401a343818e",
+				"dweb:/ipfs/QmdmfZ7uB13PbhdazLSP8mkpUSS6wicdNJvRNCZ9aHz4jT"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "fun1",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Multiple_Inheritence_in_Blockchain/multipleInheritence.sol": "multipleInheritence3"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Multiple_Inheritence_in_Blockchain/multipleInheritence.sol": {
+			"keccak256": "0x1398bc4c2d6413aa23dc3e76ff737e8516478d069923a33f91ebcfecf40299f4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c536e48512639b168e9faf6a80f5d1032b74cdfae60cf9a9de3633a1e2793cc2",
+				"dweb:/ipfs/QmPYxvpvgmpXFKtEne5z49RixP9sVJsLNEtZ7ca37eWvCZ"
+			]
+		}
+	},
+	"version": 1
+}

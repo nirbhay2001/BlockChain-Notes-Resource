@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_x",
+						"type": "uint256"
+					}
+				],
+				"name": "fun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Ternary_Operator/ternaryOperator.sol": "ternaryOperator"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Ternary_Operator/ternaryOperator.sol": {
+			"keccak256": "0x37382498adfd6868c7f9b66002be5a6ee6f4ff95e7f4527bd3642f9c535d6484",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://14ef5496e37398a17781d80e833731a8f2935c53baf0a1d4d1d7405d5714fb5d",
+				"dweb:/ipfs/QmZcHWWTgPiyqPveW1GFq9iq2wdjgdA8ANi5xFYyeqRnc6"
+			]
+		}
+	},
+	"version": 1
+}

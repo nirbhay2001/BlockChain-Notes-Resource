@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "salary",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setSalary",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"State_Variable/stateVariable.sol": "stateVariable"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"State_Variable/stateVariable.sol": {
+			"keccak256": "0x5a86986f1b105351691608afbe8b29287d3c6f62c0baca596da10a94cb1eb910",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4f55472a777f44d5517249d019ab2ce0e4a83de27a8c5fd18f95e6768c78d87a",
+				"dweb:/ipfs/QmY7H1fY7L6QTMk1JMhyhyU2qWufwbo1xWB867LeAqcFhJ"
+			]
+		}
+	},
+	"version": 1
+}

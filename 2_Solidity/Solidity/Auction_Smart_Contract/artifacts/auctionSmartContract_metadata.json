@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Auction_Smart_Contract/auctionSmartContract.sol": "auctionSmartContract"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Auction_Smart_Contract/auctionSmartContract.sol": {
+			"keccak256": "0x865690f5bed06c59dac09c614976cf520170f696c6c16fb9fa0a2901aadc2e75",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c47484367fcf3b5a3e66fad2c6740ab87b01300e3ff16b3f51d204af52302f34",
+				"dweb:/ipfs/QmTKNCiHFZeMUZs2co54QRCLBErCQJCoNLq1haBcVhZxm4"
+			]
+		}
+	},
+	"version": 1
+}

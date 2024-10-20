@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "_from",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "chat",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "to_",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "message_",
+						"type": "string"
+					}
+				],
+				"name": "sendMess",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Events_In_Blockchain/eventsBlockchain.sol": "chatApp"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Events_In_Blockchain/eventsBlockchain.sol": {
+			"keccak256": "0x9b7273dabed9d9a0dec1660d5de8aacea52c6cf7ec5ed1c920f34cf19cdc1177",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://79274a399a2712ce37accad679d5b96cbd49ee20936002cd328a15a0ec6a54aa",
+				"dweb:/ipfs/QmUWsFw64kMFTCLaGPqWbWsvmicLLz6nwyqMtrAHSjULJL"
+			]
+		}
+	},
+	"version": 1
+}

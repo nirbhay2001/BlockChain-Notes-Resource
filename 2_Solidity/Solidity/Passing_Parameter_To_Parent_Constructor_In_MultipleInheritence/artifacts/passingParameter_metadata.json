@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Passing_Parameter_To_Parent_Constructor_In_MultipleInheritence/PassingParameter.sol": "passingParameter"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Passing_Parameter_To_Parent_Constructor_In_MultipleInheritence/PassingParameter.sol": {
+			"keccak256": "0x6b168175debcbd1b4f96f9abad5b1495efb572df57c3330c796de14f86059c04",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3b1153e1532d0ce3fb6032544a1e4c844835bb92ed903cfc73bcdd34db5ce7c6",
+				"dweb:/ipfs/QmdgQJBNj9a3mDyvg5HrLFp57soqb21r3TC8tcGnjzgusc"
+			]
+		}
+	},
+	"version": 1
+}
